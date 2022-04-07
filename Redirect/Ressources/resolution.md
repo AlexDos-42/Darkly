@@ -1,1 +1,1 @@
-Resolution:
+Résolution:
