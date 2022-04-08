@@ -12,15 +12,15 @@ Darkly [WIP]
 
 6 cookie - flag done - Ressources done
 
-7 admin root - flag to do - Ressources to do
+7 robots.txt - whatever - flag done - Ressources done
 
 8 Data Validation - flag done - Ressources done
 
-9 SQL recherche to do - flag done - Ressources to do
+9 SQL recherche to do - flag to do - Ressources to do
 
 10 SQL member- flag to do - Ressources to do
 
-11 ./.hidden readme- flag to do - Ressources to do
+11 robots.txt - ./.hidden readme- flag to do - Ressources to do
 
 12 image nsa- flag to do - Ressources to do
 
