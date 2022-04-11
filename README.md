@@ -8,7 +8,7 @@ Darkly [WIP]
 
 4 Cross-site request - flag done - Ressources done
 
-5 feedback - flag to do - Ressources to do
+5 XSS Feedback - flag done - Ressources done
 
 6 cookie - flag done - Ressources done
 
