@@ -16,7 +16,7 @@ Darkly [WIP]
 
 8 Data Validation - flag done - Ressources done
 
-9 SQL recherche to do - flag to do - Ressources to do
+9 SQL - Image - flag done - Ressources done
 
 10 SQL member- flag to do - Ressources to do
 
