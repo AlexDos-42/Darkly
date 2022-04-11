@@ -18,7 +18,7 @@ Darkly [WIP]
 
 9 SQL - Image - flag done - Ressources done
 
-10 SQL member- flag to do - Ressources to do
+10 SQL - Member - flag done - Ressources done
 
 11 robots.txt - ./.hidden readme- flag to do - Ressources to do
 
