@@ -26,3 +26,7 @@ on trouve ce message:
 Ce qui décripté donne FortyTwo. Puis en minuscule donne fortytwo ce qui donne le flag en sha256
 
 10a16d834f9b1e4068b25c4c46fe0284e99e44dceaf08098fc83925ba6310ff5
+
+
+Il est possible d'escape les caractères spéciciaux comme %20 pour les espaces, pour que le code SQL ne soient plus lisible.
+C'est possible aussi d'interdir certains caractères ou bout de code comme ' ou 1=1.
